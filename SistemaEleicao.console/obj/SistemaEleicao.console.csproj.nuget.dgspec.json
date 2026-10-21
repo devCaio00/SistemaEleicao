@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.console\\SistemaEleicao.console.csproj": {}
+    "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.Console\\SistemaEleicao.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.console\\SistemaEleicao.console.csproj": {
+    "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.Console\\SistemaEleicao.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.console\\SistemaEleicao.console.csproj",
-        "projectName": "SistemaEleicao.console",
-        "projectPath": "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.console\\SistemaEleicao.console.csproj",
+        "projectUniqueName": "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.Console\\SistemaEleicao.Console.csproj",
+        "projectName": "SistemaEleicao.Console",
+        "projectPath": "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.Console\\SistemaEleicao.Console.csproj",
         "packagesPath": "C:\\Users\\caioc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.console\\obj\\",
+        "outputPath": "C:\\Users\\caioc\\OneDrive\\Documentos\\VSCODE\\SistemaEleicao\\SistemaEleicao.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioc\\AppData\\Roaming\\NuGet\\NuGet.Config"
